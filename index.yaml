@@ -7,3 +7,10 @@ entries:
     urls:
     - https://github.com/swatikher/my-helm-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
     version: 0.1.0
+   nsmt-ui:
+  - apiVersion: v1
+    appVersion: "1.0"
+    name: nsmt-ui
+    urls:
+    - https://github.com/swatikher/my-helm-charts/releases/download/nsmt-ui-0.1.0/nsmt-ui-0.1.0.tgz
+    version: 0.1.0
